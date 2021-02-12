@@ -1,4 +1,5 @@
 #Week3Exercise3
+
 To build the image, run Docker build from a command line or terminal that is in the root directory of the application.
     $docker build -t <image-name> .
   
